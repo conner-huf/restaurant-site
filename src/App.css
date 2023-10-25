@@ -60,6 +60,7 @@ Link:link {
   border-radius: 0.6rem;
   font-family: "Karla";
   font-size: 2rem;
+  transition: 0.2s;
 }
 
 .action-button:hover {
@@ -93,6 +94,7 @@ Link:link {
   text-align: center;
   padding-left: 0.5rem;
   padding-right: 0.3rem;
+  transition: 0.2s;
 }
 
 .mobile {
@@ -145,6 +147,7 @@ Link:link {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  border-radius: 2rem;
 }
 
 /* SPECIALS */
@@ -175,12 +178,14 @@ Link:link {
 .menu-card {
   background-color: #edefee;
   padding-bottom: 1rem;
+  border-radius: 2rem;
 }
 
 .menu-card > img {
   height: 25vh;
   width: 100%;
   object-fit: cover;
+  border-radius: 2rem 2rem 0 0;
 }
 
 .menu-card-content {
@@ -202,6 +207,7 @@ Link:link {
   border-radius: 0.6rem;
   font-size: 1.5rem;
   padding: 0.5rem;
+  transition: 0.2s;
 }
 
 .special-button:hover {
